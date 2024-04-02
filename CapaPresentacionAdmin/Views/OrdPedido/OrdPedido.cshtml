@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "OrdPedido";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ol class="breadcrumb mb-4 mt-2">
+    <li class="breadcrumb-item"><a href="index.html">Orden de Pedido</a></li>
+    <li class="breadcrumb-item active">Lista de Pedidos</li>
+</ol>
+
+<div class="card">
+    <div class="card-header">
+
+        <i class="fas fa-server me-1"></i>Lista de Ordenes de Pedido
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12">
+                <button type="button" class="btn btn-success">Crear Nuevo</button>
+            </div>
+        </div>
+        <hr />
+        <table id="tablaOP" class="display cell-border" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>Nro.Ped</th>
+                    <th>Nro.Bol</th>
+                    <th>Ord-Prod</th>
+                    @*<th>F.Pago</th>*@
+                    <th>Cliente</th>
+                    <th>Medico</th>
+                    @*<th>O. Receta</th>*@
+                    <th>Sucursal</th>
+                    <th>Tip.OP</th>
+                    <th>Total</th>
+                    <th>Adel.</th>
+                    <th>Saldo</th>
+                    <th>Lab.</th>
+                    <th>Est.OP</th>
+                </tr>
+
+            </thead>
+            @*<tbody>
+                </tbody>*@
+        </table>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        jQuery.ajax({
+            url: '@Url.Action("ListarOrdPedido", "OrdPedido")',
+            type: "GET",
+            dataType: "json",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                console.log(data)
+            }
+        })
+
+        tabladata = $("#tablaOP").DataTable({
+            responsive: true,
+            ordering: false,
+            "ajax": {
+                url: '@Url.Action("ListarOrdPedido", "OrdPedido")',
+                type: "GET",
+                dataType: "json",
+            },
+            "columns": [
+                { "data": "nroPedidoLocal" },
+                { "data": "numBoleta" },
+                { "data": "ordenProduccion" },
+/*                { "data": "FormaPag" },*/
+                { "data": "Cliente" },
+                { "data": "Medico" },
+/*                { "data": "OrigenRec" },*/
+                { "data": "Sucursal" },
+                { "data": "TipoOP" },
+                { "data": "total" },
+                { "data": "adelanto" },
+                { "data": "saldo" },
+                { "data": "laboratorio" },
+                {
+                    "data": "estadoPedido", "render": function (data) {
+                        if (data == "PENDIENTE") {
+                            return '<span class="badge bg-success">Pendiente</span>'
+                        } else if (data == "EN PROCESO") {
+                            return '<span class="badge bg-warning">En proceso</span>'
+                        } else if (data == "ENTREGADO") {
+                            return '<span class="badge bg-info text-dark">Entregado</span>'
+                        } else if (data == "TERMINADO") {
+                            return '<span class="badge bg-success">Terminado</span>'
+                        } else {
+                            return '<span class="badge bg-danger">Eliminado</span>'
+                        }
+                    }
+                }
+
+
+
+
+            ]
+        });
+
+    </script>
+}
+

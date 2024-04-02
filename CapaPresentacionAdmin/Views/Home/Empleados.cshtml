@@ -1,0 +1,139 @@
+﻿
+@{
+    ViewBag.Title = "Empleados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ol class="breadcrumb mb-4 mt-2">
+    <li class="breadcrumb-item"><a href="index.html">Empleados</a></li>
+    <li class="breadcrumb-item active">Usuarios</li>
+</ol>
+
+<div class="card">
+    <div class="card-header">
+
+        <i class="fas fa-server me-1"></i>Lista de Empleados
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12">
+                <button type="button" class="btn btn-success" onclick="abrirModal()">Crear Nuevo</button>
+            </div>
+        </div>
+        <hr />
+        <table id="tabla" class="display cell-border" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Documento</th>
+                    <th>Nombres</th>
+                    <th>Sucursal</th>
+                    <th>Empresa</th>
+                    <th>Grupo</th>
+                    <th>Uusuario</th>
+                    <th>Estado</th>
+                    <th></th>
+                </tr>
+
+            </thead>
+        </table>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="FormModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-dark text-white">
+                <h5 class="modal-title" id="staticBackdropLabel">Usuarios</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body g-2">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <label for="txtNombres" class="form-label">Nombres</label>
+                        <input type="text" class="form-control" id="txtNombres">
+                    </div>
+                    <div class="col-sm-6">
+                        <label for="txtApellidos" class="form-label">Apellidos</label>
+                        <input type="text" class="form-control" id="txtApellidos">
+                    </div>
+                    <div class="col-sm-6">
+                        <label for="txtCorreo" class="form-label">Correo</label>
+                        <input type="email" class="form-control" id="txtCorreo" placeholder="name@example.com">
+                    </div>
+                    <div class="col-sm-6">
+                        <label for="cboActivo" class="form-label">Activo</label>
+                        <select id="cboActivo" class="form-select">
+                            <option selected>Open this select menu</option>
+                            <option value="HABILITADO">HABILITADO</option>
+                            <option value="DESHABILITADO">DESHABILITADO</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Understood</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        @*jQuery.ajax({
+            url: '@Url.Action("ListarEmpleados","Home")',
+            type: "GET",
+            dataType: "json",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                console.log(data)
+            }
+        })*@
+
+        tabladata = $("#tabla").DataTable({
+            responsive: true,
+            ordering: false,
+            "ajax": {
+                url: '@Url.Action("ListarEmpleados","Home")',
+                type: "GET",
+                dataType: "json",
+            },
+            "columns": [
+                { "data": "emp_codigo" },
+                { "data": "documento" },
+                { "data": "nombreEmpleado"},
+                { "data": "Sucursal" },
+                { "data": "Empresa" },
+                { "data": "Grupo" },
+                { "data": "userName" },
+                {
+                    "data": "estado", "render": function (data) {
+                        if (data =="HABILITADO" ) {
+                            return '<span class="badge bg-success">Habilitado</span>'
+                        } else {
+                            return '<span class="badge bg-danger">Deshabilitado</span>'
+                        }
+                    }
+                },
+                {
+                    "defaultContent": '<button type="button" class="btn btn-primary btn-sm"><i class="fas fa-pen"></i></button>' +
+                        '<button type="button" class="btn btn-danger btn-sm ms-2"><i class="fas fa-trash"></i></button>',
+                    "orderable": false,
+                    "searchable": false,
+                    "width": "90px"
+                }
+            ],
+            "language": {
+                "url":"https://cdn.datatables.net/plug-ins/2.0.3/i18n/es-ES.json"
+            }
+        });
+
+        function abrirModal() {
+            $("#FormModal").modal("show");
+
+        }
+
+    </script>
+}

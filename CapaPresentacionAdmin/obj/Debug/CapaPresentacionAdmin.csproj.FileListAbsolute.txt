@@ -1,0 +1,276 @@
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\reinp\OneDrive\Escritorio\SIGE 2024\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\WebGrease.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaDatos.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
