@@ -524,6 +524,10 @@
       <Project>{396cda04-7259-4894-819c-855bde9f424e}</Project>
       <Name>CapaNegocio</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CapaService\CapaService.csproj">
+      <Project>{8ABE840C-60F5-4F68-AC72-A637793937B0}</Project>
+      <Name>CapaService</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

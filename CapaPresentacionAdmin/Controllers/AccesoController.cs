@@ -22,7 +22,7 @@ namespace CapaPresentacionAdmin.Controllers
         {
             EMPLEADO objeto = new LO_Empleado().EncontrarEmpleados(userName, clave);
 
-            if (objeto.nombres != null)
+            if (objeto.Nombres != null)
             {
                 FormsAuthentication.SetAuthCookie(objeto.userName, false);
                 Session["Usuario"] = objeto;

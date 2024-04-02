@@ -31,3 +31,14 @@ C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2
 C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\CLIENTE_TERCERO\CapaNegocio\obj\Debug\CapaNegocio.pdb
