@@ -4,6 +4,8 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+
+
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="#">Orden de Pedio</a></li>
@@ -36,12 +38,17 @@
                     <div class="col-sm-3">
                         <div class="input-group input-group-sm mb-2">
                             <div class="input-group-prepend">
-                                <label class="input-group-text bg-dark text-white" for="inputGroupSelect01">Laboratorio</label>
+                                <label class="input-group-text bg-dark text-white" for="inputGroupSelect02">Laboratorio</label>
                             </div>
-                            <select class="custom-select" id="cboventatipodocumento">
-                                <option value="Boleta">QFOLIVOS</option>
-                                <option value="Factura">QFIZAGUIRRE</option>
+
+                            <select class="custom-select" id="cbolaboratorio">
+                                @foreach (var sucursal in ViewBag.SucursalesProduccion)
+                                {
+                                    <option value="@sucursal">@sucursal</option>
+                                }
+
                             </select>
+
                         </div>
                     </div>
                     <div class="col-sm-3">
@@ -67,37 +74,43 @@
                             </select>
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-5">
                         <div class="input-group input-group-sm mb-2">
                             <div class="input-group-prepend">
                                 <label class="input-group-text bg-dark text-white" for="inputGroupSelect01">Sucursal OP</label>
                             </div>
-                            @*<select class="custom-select" id="cboventatipodocumento">
-                                <option value="Boleta">QFOLIVOS</option>
-                                <option value="Factura">QFIZAGUIRRE</option>
-                            </select>*@
-                            
+                            <select class="custom-select" id="cbosucursalOP">
+                                @foreach (var sucursalOP in ViewBag.SucursalesOP)
+                                {
+                                    <option value="@sucursalOP">@sucursalOP</option>
+                                }
+                            </select>
+
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-5">
                         <div class="input-group input-group-sm mb-2">
                             <div class="input-group-prepend">
                                 <label class="input-group-text bg-dark text-white" for="inputGroupSelect01">Diagnostico/Patologia</label>
                             </div>
-                            <select class="custom-select" id="cboventatipodocumento">
-                                <option value="Boleta">QFOLIVOS</option>
-                                <option value="Factura">QFIZAGUIRRE</option>
+                            <select class="custom-select" id="cbodiagnostico">
+                                @foreach (var diagnosticoop in ViewBag.DiagnosticoOP)
+                                {
+                                    <option value="@diagnosticoop">@diagnosticoop</option>
+                                }
                             </select>
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col-sm-6">
                         <div class="input-group input-group-sm mb-2">
                             <div class="input-group-prepend">
                                 <label class="input-group-text bg-dark text-white" for="inputGroupSelect01">Linea de Atencion</label>
                             </div>
-                            <select class="custom-select" id="cboventatipodocumento">
-                                <option value="Boleta">QFOLIVOS</option>
-                                <option value="Factura">QFIZAGUIRRE</option>
+                            <select class="custom-select" id="cbolinea">
+                                @foreach (var lineaop in ViewBag.LineaOP)
+                                {
+                                    <option value="@lineaop">@lineaop</option>
+                                }
                             </select>
                         </div>
                     </div>
@@ -112,88 +125,9 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
-                        <div class="card bg-dark text-white border-dark">
-                            <div class="card-body p-2">
-                                <div class="row">
-                                    <div class="col-sm-10">
-                                        <h6 class="card-title mb-1">Tienda origen</h6>
-                                    </div>
-                                    <div class="col-sm-2">
-                                        <div class="float-right">
-                                            <a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample">
-                                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                            </a>
-                                        </div>
-                                    </div>
 
-                                </div>
-
-                                <div class="row collapse" id="collapse1">
-                                    <input id="txtIdTienda" type="hidden" value="0" />
-                                    <div class="col-sm-4">
-                                        <div class="form-group mb-0">
-                                            <label for="txtRazonSocialProveedor" class="col-form-label col-form-label-sm">Nombre:</label>
-                                            <label class="form-control form-control-sm model mb-1" readonly id="lbltiendanombre"></label>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="form-group mb-0">
-                                            <label for="txtRazonSocialProveedor" class="col-form-label col-form-label-sm">RUC:</label>
-                                            <label class="form-control form-control-sm model mb-1" readonly id="lbltiendaruc"></label>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="form-group mb-0">
-                                            <label for="txtRazonSocialProveedor" class="col-form-label col-form-label-sm">Direccion:</label>
-                                            <label class="form-control form-control-sm model mb-1" readonly id="lbltiendadireccion"></label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
-                    <div class="col-sm-6">
-                        <div class="card bg-dark text-white border-dark">
-                            <div class="card-body p-2">
 
-                                <div class="row">
-                                    <div class="col-sm-10">
-                                        <h6 class="card-title mb-1">Datos Empleado</h6>
-                                    </div>
-                                    <div class="col-sm-2">
-                                        <div class="float-right">
-                                            <a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample">
-                                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="row collapse" id="collapse2">
-                                    <input id="txtIdUsuario" type="hidden" value="0" />
-                                    <div class="col-sm-4">
-                                        <div class="form-group mb-0">
-                                            <label for="txtRucProveedor" class="col-form-label col-form-label-sm">Nombre:</label>
-                                            <label class="form-control form-control-sm model mb-1" readonly id="lblempleadonombre"></label>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="form-group mb-0">
-                                            <label for="txtRazonSocialProveedor" class="col-form-label col-form-label-sm">Apellido:</label>
-                                            <label class="form-control form-control-sm model mb-1" readonly id="lblempleadoapellido"></label>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="form-group mb-0">
-                                            <label for="txtRazonSocialProveedor" class="col-form-label col-form-label-sm">Correo:</label>
-                                            <label class="form-control form-control-sm model mb-1" readonly id="lblempleadocorreo"></label>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
                 </div>
 
@@ -227,7 +161,7 @@
                                     </div>
                                     <div class="col-sm-2">
                                         <div class="form-group mb-0">
-                                            <button id="btnBuscarCliente" type="button" class="btn btn-sm btn-primary btn-block"><i class="fas fa-search"></i> Buscar</button>
+                                            <button id="btnBuscarCliente" type="button" class="btn btn-sm btn-primary btn-block" onclick="abrirModalCliente()"><i class="fas fa-search"></i> Buscar</button>
                                         </div>
                                     </div>
                                 </div>
@@ -488,7 +422,7 @@
 <div class="modal fade" id="modalCliente" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-            <div class="modal-header bg-info text-white">
+            <div class="modal-header bg-dark text-white">
                 <h5 class="modal-title">Clientes</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
@@ -515,5 +449,70 @@
     </div>
 </div>
 @section scripts{
-    <script src="@Url.Content("~/Scripts/Views/CrearOrdenPedido.js")" type="text/javascript"></script>
+    <script>
+
+
+        tabladata = $("#tabla").DataTable({
+            responsive: true,
+            ordering: false,
+            "ajax": {
+                url: '@Url.Action("ListarEmpleados","Home")',
+                type: "GET",
+                dataType: "json",
+            },
+            "columns": [
+                { "data": "emp_codigo" },
+                { "data": "documento" },
+                { "data": "nombreEmpleado"},
+                { "data": "Sucursal" },
+                { "data": "Empresa" },
+                { "data": "Grupo" },
+                { "data": "userName" },
+                {
+                    "data": "estado", "render": function (data) {
+                        if (data =="HABILITADO" ) {
+                            return '<span class="badge bg-success">Habilitado</span>'
+                        } else {
+                            return '<span class="badge bg-danger">Deshabilitado</span>'
+                        }
+                    }
+                },
+                {
+                    "defaultContent": '<button type="button" class="btn btn-primary btn-sm"><i class="fas fa-pen"></i></button>' +
+                        '<button type="button" class="btn btn-danger btn-sm ms-2"><i class="fas fa-trash"></i></button>',
+                    "orderable": false,
+                    "searchable": false,
+                    "width": "90px"
+                }
+            ],
+            "language": {
+                "url":"https://cdn.datatables.net/plug-ins/2.0.3/i18n/es-ES.json"
+            }
+        });
+
+        function abrirModalCliente() {
+            $("#modalCliente").modal("show");
+
+        }
+
+        function abrirModalProduto() {
+            $("#modalCliente").modal("show");
+
+        }
+
+    </script>
 }
+
+<script>
+    // Obtener referencia al elemento input
+    const inputFechaVenta = document.getElementById('txtfechaventa');
+
+    // Obtener la fecha actual
+    const fechaActual = new Date();
+
+    // Formatear la fecha como DD-MM-YYYY
+    const fechaFormateada = `${fechaActual.getDate().toString().padStart(2, '0')}-${(fechaActual.getMonth() + 1).toString().padStart(2, '0')}-${fechaActual.getFullYear()}`;
+
+    // Asignar la fecha formateada al valor del input
+    inputFechaVenta.value = fechaFormateada;
+</script>

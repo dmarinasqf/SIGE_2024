@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ol class="breadcrumb mb-4 mt-2">
+    <li class="breadcrumb-item"><a href="index.html">Empresa</a></li>
+    <li class="breadcrumb-item active">Lista de Empresa</li>
+</ol>
+
+<div class="card">
+    <div class="card-header">
+
+        <i class="fas fa-server me-1"></i>Lista de empresas
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12">
+                <button type="button" class="btn btn-success">Crear Nuevo</button>
+            </div>
+        </div>
+        <hr />
+        <table id="tablaEmpresas" class="display cell-border" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre de Emp.</th>
+
+                </tr>
+
+            </thead>
+            @*<tbody>
+                </tbody>*@
+        </table>
+    </div>
+</div>
+
+
+
+@section scripts{
+
+
+    <script src="@Url.Content("~/Scripts/Views/ListarEmpresa.js")" type="text/javascript"></script>
+}
+

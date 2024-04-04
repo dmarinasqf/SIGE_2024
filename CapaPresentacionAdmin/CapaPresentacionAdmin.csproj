@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccesoController.cs" />
+    <Compile Include="Controllers\EmpresaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MantenedorController.cs" />
     <Compile Include="Controllers\OrdPedidoController.cs" />
@@ -433,6 +434,7 @@
     <Content Include="Scripts\DataTables\responsive.semanticui.js" />
     <Content Include="Scripts\DataTables\responsive.semanticui.min.js" />
     <Content Include="Scripts\Views\CrearOrdenPedido.js" />
+    <Content Include="Scripts\Views\ListarEmpresa.js" />
     <Content Include="webfonts\fondologin.jpeg" />
     <Content Include="webfonts\QF..jpeg" />
     <Content Include="Content\DataTables\css\semanticui.scss" />
@@ -504,6 +506,7 @@
     <Content Include="Views\Acceso\Index.cshtml" />
     <Content Include="Views\Home\SinPermiso.cshtml" />
     <Content Include="Views\RegistroOrdPedido\Index.cshtml" />
+    <Content Include="Views\Empresa\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -516,6 +519,10 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{DA480C97-7F77-44B0-85CE-D79886320CBD}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
       <Project>{3ef07fdf-9947-4887-a86d-93d283e4d1da}</Project>
       <Name>CapaEntidad</Name>

@@ -368,3 +368,5 @@ D:\Proyectos\CLIENTE_TERCERO\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Ra
 D:\Proyectos\CLIENTE_TERCERO\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
 D:\Proyectos\CLIENTE_TERCERO\CapaPresentacionAdmin\bin\CapaService.dll
 D:\Proyectos\CLIENTE_TERCERO\CapaPresentacionAdmin\bin\CapaService.pdb
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaService.dll
+C:\Users\Desarrollo3\Desktop\SIGE_V2024_DMO\SIGE_TERCEROS_2024_1\SIGE_TERCEROS_2024\SIGE_TERCEROS_2024\CapaPresentacionAdmin\bin\CapaService.pdb

@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CD_Empleados.cs" />
+    <Compile Include="CD_OPXBOX.cs" />
     <Compile Include="CD_OPEXPO.cs" />
     <Compile Include="Conexion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

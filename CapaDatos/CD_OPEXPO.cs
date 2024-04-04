@@ -138,5 +138,33 @@ namespace CapaDatos
         //    }
         //}
 
+        public class DatosSucursal
+        {
+            private string CadenaConexion = "Data Source=PANDAFILE;Initial Catalog=BACKUPQF;User ID=sa;Password=INT2021tf;";
+
+            public List<string> ObtenerSucursalesProduccion()
+            {
+                List<string> sucursales = new List<string>();
+
+                using (SqlConnection conexion = new SqlConnection(CadenaConexion))
+                {
+                    string consulta = "SELECT descripcion FROM SUCURSAL WHERE tipoSucursal='PRODUCCIÓN'";
+                    SqlCommand comando = new SqlCommand(consulta, conexion);
+
+                    conexion.Open();
+                    SqlDataReader lector = comando.ExecuteReader();
+
+                    while (lector.Read())
+                    {
+                        sucursales.Add(lector["descripcion"].ToString());
+                    }
+
+                    lector.Close();
+                }
+
+                return sucursales;
+            }
+        }
+
     }
 }
